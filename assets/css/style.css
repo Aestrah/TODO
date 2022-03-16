@@ -90,6 +90,11 @@ ul {
   font-size: 1.4rem;
   box-shadow: var(--box-shadow);
 }
+
+.low-opacity {
+  opacity: 0.5;
+}
+
 /* CONTENT */
 
 .content {
